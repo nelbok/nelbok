@@ -10,5 +10,5 @@ Competence:
 - Others: OpenGL, SQL, PHP, JS, CSS, HTML, Python, Bash, PowerShell, Git, Vcpkg
 - Windows / Linux / Android
 
-As for now, I am working on ![Eno Creator]([sample/preview.png](https://github.com/nelbok/eno-creator)). Improving my Qt knowledge.
+As for now, I am working on ![Eno Creator](https://github.com/nelbok/eno-creator). Improving my Qt knowledge.
 Professionally, I am looking for a job in France.
