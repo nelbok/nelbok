@@ -1,16 +1,56 @@
-Hello
+# Nelbok
 
-I am a senior C++/Qt developer, living in France.
+Senior C++ / Qt Developer
 
-My expertise is oriented towards user interfaces.
+---
 
-I have already worked on 3D subjects.
+## Profile
 
-Competence:
-- C++ 98/11/14/17
-- Qt 5/6, Widgets, Quick, 3D
-- QML / JS
-- Others: Python, Bash, PowerShell, vcpkg, C, C#, WPF, 3D
-- Windows / macOS / Linux / Android
+Senior Software Engineer with strong expertise in C++ and Qt development.
+Experienced in maintaining and modernizing large-scale desktop applications,
+with a focus on architecture, performance and long-term maintainability.
 
-Currently working on: [FS Editor 3D](https://github.com/nelbok/FSEditor3D)
+Comfortable working across legacy C++98 systems to modern C++17 environments.
+
+---
+
+## Core Stack
+
+- C++ (C++98 → C++17)
+- Qt 5 / Qt 6 (Widgets, Qt Quick / QML)
+- Multithreading
+- Performance optimization
+- Large-scale refactoring and legacy modernization
+
+---
+
+## Continuous Learning & Personal Development
+
+- PHP
+- REST API design
+- SQL
+- Apache
+- Python
+
+Focused on backend architecture, API design and data modeling.
+
+---
+
+## Previous Professional Stack
+
+- C#
+- WPF
+- PowerShell
+
+---
+
+## Independent Project
+
+Independently developing a mobile game platform,
+covering both client and backend architecture:
+
+- C++ / Qt Quick client
+- PHP REST API backend
+- SQL database
+
+End-to-end responsibility from system design to implementation.
